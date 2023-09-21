@@ -4,8 +4,14 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     
-Certifications 
-
+<h2> Certifications:</h2>
+  
+  - CompTIA Security+
+  
+  - AWS Cloud Practitioner
+  
+  - Microsoft Certified: Azure Fundamentals
+  
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/shaiganawan/)
 <!--
