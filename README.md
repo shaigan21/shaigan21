@@ -1,5 +1,12 @@
 <h1>Hi, I'm Shaigan! <Cybersecurity Professional</a>
 
+<h2>Analytics</h2> 
+
+  - Excel
+
+      - [Bike Sales Analysis](https://github.com/shaigan21/Bike-Sales-Analysis.git)
+   
+        
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
