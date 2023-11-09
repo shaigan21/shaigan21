@@ -16,8 +16,7 @@ Cyber Security Analyst | Cloud Architect
 <h2> 🚫 Vulnerability Management</h2>
 
 - [Nessus](https://github.com/shaigan21/Nessus)
-- 
-            
+- [OpenVas](https://github.com/shaigan21/OpenVas)            
 <h2> Certifications:</h2>
   
   - CompTIA Security+
