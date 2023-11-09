@@ -6,7 +6,7 @@ Cyber Security Analyst | Cloud Architect
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>Cloud</h2>
+<h2> :cloud: Cloud</h2>
 
   - AWS
 
