@@ -1,12 +1,6 @@
 <h1>Hi, I'm Shaigan! <Cybersecurity Professional</a>
 
 Cyber Security Analyst | Cloud Architect 
-<h2>Analytics</h2> 
-
-  - Excel
-
-      - [Bike Sales Analysis](https://github.com/shaigan21/Bike-Sales-Analysis.git)
-   
         
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
