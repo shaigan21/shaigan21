@@ -21,7 +21,7 @@ Cyber Security Analyst | Cloud Architect
 
   - Azure
 
-     -[Azure Hybrid Active Directory](https://github.com/shaigan21/Azure-Hybrid-Active-Directory)
+     - [Azure Hybrid Active Directory](https://github.com/shaigan21/Azure-Hybrid-Active-Directory)
 
             
 <h2> Certifications:</h2>
