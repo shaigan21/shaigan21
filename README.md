@@ -1,5 +1,6 @@
 <h1>Hi, I'm Shaigan! <Cybersecurity Professional</a>
 
+Cyber Security Analyst | Cloud Architect 
 <h2>Analytics</h2> 
 
   - Excel
@@ -10,6 +11,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2>Cloud</h2>
+
+  - AWS
+
+    - [Three Tier Architecture](https://github.com/shaigan21/Three-Tier-Architecture)
     
 <h2> Certifications:</h2>
   
