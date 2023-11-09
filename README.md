@@ -2,10 +2,6 @@
 
 Cyber Security Analyst | Cloud Architect 
         
-<h2 🚫 Vulnerability Management</h2>
-
-  
-
 <h2> :cloud: Cloud</h2>
 
   - AWS
@@ -16,6 +12,8 @@ Cyber Security Analyst | Cloud Architect
   - Azure
 
      - [Azure Hybrid Active Directory](https://github.com/shaigan21/Azure-Hybrid-Active-Directory)
+
+<h2> 🚫 Vulnerability Management</h2>
 
             
 <h2> Certifications:</h2>
